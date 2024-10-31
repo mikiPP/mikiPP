@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### About me:
+
 Driving innovation in web and mobile development with over 5 years of hands-on experience across the full technology stack. Passionate about crafting elegant, efficient solutions that push the boundaries of what's possible in the digital realm. Using clean architectures and patterns like Solid, DDD, KISS, hexagonal architectures.
 
 🚀 Technical Expertise
@@ -31,3 +33,7 @@ Fluent in English, Spanish,Catalan and soon German, bringing a multicultural app
 
 🔍 Current Focus
  Seeking challenging opportunities to leverage my full stack expertise anywhere in EU for an ambitious product-based company. Ready to contribute my skills, passion, and collaborative spirit to a forward-thinking team.
+
+📫 How to reach me:
+
+Feel free to check my linkedin and contact with me! https://www.linkedin.com/in/miguel-angel-palao-palmer/
